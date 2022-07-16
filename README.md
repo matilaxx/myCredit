@@ -1,4 +1,4 @@
-# Todos app api 
+# MyCredit api 
 ## Teknologi yang digunakan
 - Menggunakan NodeJS sebagai runtime dan ExpressJS sebagai server
 - Menggunakan PostgreSQL untuk database dan Sequelize sebagai ORM
