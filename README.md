@@ -2,7 +2,7 @@
 ## Teknologi yang digunakan
 - Menggunakan NodeJS sebagai runtime dan ExpressJS sebagai server
 - Menggunakan PostgreSQL untuk database dan Sequelize sebagai ORM
-- Menggunakan jsonwebtoken untuk generate token dan passport-jwt sebagai middleware untuk authentikasi user
+- Menggunakan jsonwebtoken untuk generate token dan digunakan untuk authentikasi user
 - Menggunakan multer untuk upload file dengan multipart/form-data
 - Menggunakan imagekit sebagai cloud storage untuk menyimpan data gambar yang telah di upload
 ## Alasan Menggunakan Pattern Ini
